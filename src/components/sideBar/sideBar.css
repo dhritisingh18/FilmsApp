@@ -1,0 +1,9 @@
+
+*{
+    box-sizing: border-box;
+}
+.sidebar{
+    width: 200px;
+    height: calc(100vh - 50px);
+    box-shadow: 0 0 3px 1px lightgray;
+}

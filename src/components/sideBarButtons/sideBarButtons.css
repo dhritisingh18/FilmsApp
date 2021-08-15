@@ -1,0 +1,12 @@
+.sidebarbuttons{
+    width: 198px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sidebarbuttons:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}

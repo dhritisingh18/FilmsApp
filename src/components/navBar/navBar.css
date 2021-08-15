@@ -1,0 +1,9 @@
+.nav-bar{
+    width: 100vw;
+    height: 50px;
+
+    display: flex;
+}
+.logo{
+    height: 50px;
+}
